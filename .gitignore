@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit / caches
+.streamlit/
+*.log
+
+# Chroma / embeddings / vector DB
+chroma_store/
+page_images/
+
+# Temporary files
+tmp/
+*.tmp
+*.temp
+
+# PDF uploads (if you store them locally)
+*.pdf

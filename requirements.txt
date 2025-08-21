@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+chromadb
+sentence-transformers
+huggingface-hub
+langchain_community
+pyMuPDF
+pdfplumber
+pillow
+pytesseract        # optional, only if you want OCR of images
+requests

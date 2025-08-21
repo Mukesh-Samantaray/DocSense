@@ -34,14 +34,6 @@
 
 ---
 
-## 📸 Screenshots
-
-*Example of DocSense in action, showcasing its ability to extract and display information from a PDF document.*
-
-![DocSense Interface](https://devpost.com/software/ai-i1mdzx)
-
----
-
 ## 🧪 Test Case
 
 **Objective**: Verify DocSense can accurately extract and display information from a sample PDF.

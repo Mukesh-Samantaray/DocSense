@@ -10,3 +10,4 @@ pdfplumber
 pillow
 pytesseract        # optional, only if you want OCR of images
 requests
+chromadb[duckdb+parquet,hnswlib]
